@@ -67,4 +67,4 @@ A coleta foi feita em etapas com checkpoints; houve falhas temporárias e retoma
 Prática de API paginada, recuperação de falhas, transformação com Pandas, agregações SQL, visualização e interpretação responsável. Melhorias futuras: coletor automatizado com checkpoints, data de extração registrada e recorte temporal ampliado.
 
 ## Verificação desta versão
-As 11 células de código do notebook final foram executadas em sequência em Python/IPython sobre o banco fornecido, com duas saídas Plotly geradas e sem erros. As consultas do arquivo SQL também foram executadas. A integridade do banco retornou `ok` e seu hash permaneceu idêntico ao arquivo recebido. O envio de arquivo e a visualização no Colab ainda precisam da conferência do autor.
+As 11 células de código do notebook final foram executadas em sequência em Python/IPython sobre o banco fornecido, com duas saídas Plotly geradas e sem erros. As consultas do arquivo SQL também foram executadas. A integridade do banco retornou `ok` e seu hash permaneceu idêntico ao arquivo recebido. O notebook também foi executado por completo no Google Colab, com todas as células concluídas sem erros.
