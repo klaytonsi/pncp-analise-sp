@@ -68,3 +68,8 @@ Prática de API paginada, recuperação de falhas, transformação com Pandas, a
 
 ## Verificação desta versão
 As 11 células de código do notebook final foram executadas em sequência em Python/IPython sobre o banco fornecido, com duas saídas Plotly geradas e sem erros. As consultas do arquivo SQL também foram executadas. A integridade do banco retornou `ok` e seu hash permaneceu idêntico ao arquivo recebido. O notebook também foi executado por completo no Google Colab, com todas as células concluídas sem erros.
+
+## Notebook no Kaggle
+
+Confira a análise publicada no Kaggle:  
+https://www.kaggle.com/code/klaytonsilva/preg-es-eletr-nicos-em-s-o-paulo-pncp
